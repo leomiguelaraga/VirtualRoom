@@ -363,9 +363,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero hr {
-  color:#e1e45d;
-  height:2px
-  
+  color:#ffffff;
+  height:3px;
 }
 
 #hero img {
@@ -542,6 +541,7 @@ section {
 
 .clients b{
   color: #0c3820;
+  text-align: justify;
 }
 
 .clients .swiper-slide img:hover {
