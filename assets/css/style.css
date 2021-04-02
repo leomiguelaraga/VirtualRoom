@@ -539,7 +539,7 @@ section {
   transition: 0.3s; 
 }
 
-.clients b{
+.clients p{
   color: #0c3820;
   text-align: justify;
 }
@@ -564,6 +564,15 @@ section {
 
 .clients .swiper-pagination .swiper-pagination-bullet-active {
   background-color: #ffc451;
+}
+
+@media (max-width: 768px) {
+  .clients .swiper-slide img {
+    opacity: 0.5;
+    transition: 0.3s; 
+    max-height: 65px;
+  }
+  
 }
 
 
