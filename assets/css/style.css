@@ -540,7 +540,7 @@ section {
   opacity: 0.5;
   transition: 0.3s; 
 }
-
+  
 .clients .swiper-slide img:hover {
   filter: none;
   opacity: 1;
