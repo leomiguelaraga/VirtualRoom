@@ -354,12 +354,13 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero h1 {
   margin: 0;
-  font-size: 56px;
+  font-size: 60px;
   font-weight: 700;
   line-height: 64px;
   color: rgb(12, 46, 9);
+  text-shadow: 5px 5px 2px rgba(0, 0, 0, 0.2), 4px 4px 8px rgba(0, 0, 0, 0.2);
   font-family: "Poppins", sans-serif;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
 }
 
 #hero hr {
@@ -458,7 +459,7 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
   }
   #hero img {
-    max-height: 150px;
+    max-height: 130px;
   }
   #hero h1 {
     font-size: 40px;
@@ -469,7 +470,7 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 24px;
   }
   #hero h3 {
-    font-size: 35px;
+    font-size: 43px;
     line-height: 24px;
   }
   #hero h4 {
@@ -540,7 +541,7 @@ section {
   opacity: 0.5;
   transition: 0.3s; 
 }
-  
+
 .clients .swiper-slide img:hover {
   filter: none;
   opacity: 1;
