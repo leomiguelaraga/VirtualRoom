@@ -570,7 +570,7 @@ section {
   .clients .swiper-slide img {
     opacity: 0.5;
     transition: 0.3s; 
-    max-height: 65px;
+    max-height: 80px;
   }
   
 }
