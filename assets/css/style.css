@@ -362,6 +362,12 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
 }
 
+#hero hr {
+  color:#e1e45d;
+  height:2px
+  
+}
+
 #hero img {
   max-height: 110px;
 }
@@ -371,10 +377,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero h2 {
-  color: rgb(255, 255, 255);
-  margin: 10px 0 0 0;
+  color: rgb(12, 46, 9);
+  margin: 15px 0 0 0;
   font-size: 30px;
-  letter-spacing: 5px;
+  letter-spacing: 6px;
 }
 
 #hero h3 {
