@@ -445,7 +445,6 @@ h1, h2, h3, h4, h5, h6 {
   color: #151515;
   font-size: 19px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  border-style:outset;
 }
 
 @media (min-width: 1024px) {
