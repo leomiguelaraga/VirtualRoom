@@ -541,11 +541,6 @@ section {
   transition: 0.3s; 
 }
 
-.clients p{
-  color: #0c3820;
-  text-align: justify;
-}
-
 .clients .swiper-slide img:hover {
   filter: none;
   opacity: 1;
