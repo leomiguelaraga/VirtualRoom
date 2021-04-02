@@ -453,10 +453,10 @@ h1, h2, h3, h4, h5, h6 {
     height: auto;
   }
   #hero img {
-    max-height: 100px;
+    max-height: 150px;
   }
   #hero h1 {
-    font-size: 40px;
+    font-size: 30px;
     line-height: 36px;
   }
   #hero h2 {
