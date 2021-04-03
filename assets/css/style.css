@@ -384,11 +384,12 @@ h1, h2, h3, h4, h5, h6 {
   color: #151515;
   font-size: 19px;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  border-style: groove;
 }
 
 #hero .text {
   color: #D4AC0D;
-  font-size: 16px;
+  font-size: 14px;
 }
 
 #hero .dropdown ul a {
@@ -398,12 +399,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #hero .dropdown ul a i {
-  font-size: 10px;
+  font-size: 15px;
+  padding-right: 10px;
 }
 
 #hero .dropdown .dropdown ul {
   top: 0;
-  list-style-type:disc  
+  list-style-type: none;  
+  padding-left: 40px;
 }
 
 #hero .dropdown .dropdown:hover > ul {
@@ -597,7 +600,7 @@ section {
   #services .icon-box h4 {
     font-weight: 700;
     margin-bottom: 15px;
-    font-size: 15px;
+    font-size: 23px;
     color:#D4AC0D;
     letter-spacing: 5px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.2), 4px 4px 8px rgba(0, 0, 0, 0.2);
@@ -673,8 +676,8 @@ section {
 }
 
 .cta .resp {
-  width: 800px;
-  height: 400px;
+  width: 850px;
+  height: 420px;
 }
 
 @media (min-width: 1024px) {
