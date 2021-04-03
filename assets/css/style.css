@@ -323,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .container {
   position: relative;
-  padding-top: 60px;
+  padding-top: 45px;
   text-align: center;
 }
 
@@ -375,42 +375,6 @@ h1, h2, h3, h4, h5, h6 {
   text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.2), 4px 4px 8px rgba(0, 0, 0, 0.2);
   letter-spacing: 5px;
 
-}
-
-#hero .icon-box {
-  padding: 30px 20px;
-  transition: ease-in-out 0.3s;
-  border: 1px solid rgba(255, 255, 255, 0.3);
-  height: 100%;
-  text-align: center;
-}
-
-#hero .icon-box i {
-  font-size: 32px;
-  line-height: 1;
-  color: #ffc451;
-}
-
-#hero .icon-box h3 {
-  font-weight: 700;
-  margin: 10px 0 0 0;
-  padding: 0;
-  line-height: 1;
-  font-size: 20px;
-  line-height: 26px;
-}
-
-#hero .icon-box h3 a {
-  color: #fff;
-  transition: ease-in-out 0.3s;
-}
-
-#hero .icon-box h3 a:hover {
-  color: #ffc451;
-}
-
-#hero .icon-box:hover {
-  border-color: #ffc451;
 }
 
 #hero button {
@@ -542,7 +506,7 @@ section {
   .clients .swiper-slide img {
     opacity: 0.5;
     transition: 0.3s; 
-    max-height: 80px;
+    max-height: 100px;
   }
   
 }
@@ -619,6 +583,18 @@ section {
 /*--------------------------------------------------------------
 # Cta
 --------------------------------------------------------------*/
+.video {
+  padding-left: 120px;
+}
+
+@media (max-width: 768px) {
+  .video {
+    padding-left: 15px;
+    padding-bottom: 0vh;
+  }
+  
+}
+
 .cta {
   background: url("../img/bg.png") top center;
   background-size: cover;
@@ -643,7 +619,7 @@ section {
 @media (max-width: 768px) {
   .cta .resp {
     max-height: 200px;
-    max-width: 350px;
+    max-width: 320px;
   }
 }
 /*--------------------------------------------------------------
