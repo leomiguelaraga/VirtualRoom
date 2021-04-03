@@ -386,6 +386,41 @@ h1, h2, h3, h4, h5, h6 {
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+#hero .text {
+  color: #D4AC0D;
+  font-size: 16px;
+}
+
+#hero .dropdown ul a {
+  text-transform: none;
+  list-style-type: none;
+  min-width: 190px;
+}
+
+#hero .dropdown ul a i {
+  font-size: 10px;
+}
+
+#hero .dropdown .dropdown ul {
+  top: 0;
+  visibility: hidden;
+  list-style-type: none;  
+}
+
+#hero .dropdown .dropdown:hover > ul {
+  opacity: 1;
+  top: 0;
+  visibility: visible;
+}
+
+@media (max-width: 1366px) {
+  #hero .dropdown .dropdown ul {
+    left: -90%;
+  }
+  #hero .dropdown .dropdown:hover > ul {
+    left: -100%;
+  }
+}
 
 
 @media (min-width: 1024px) {
