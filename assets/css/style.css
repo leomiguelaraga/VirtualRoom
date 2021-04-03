@@ -403,8 +403,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero .dropdown .dropdown ul {
   top: 0;
-  visibility: hidden;
-  list-style-type: none;  
+  list-style-type:disc  
 }
 
 #hero .dropdown .dropdown:hover > ul {
