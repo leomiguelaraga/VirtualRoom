@@ -678,7 +678,7 @@ section {
 .cta .resp {
   width: 900px;
   height: 450px;
-  border-radius: 17px;
+  border-radius: 15px;
 }
 
 @media (min-width: 1024px) {
