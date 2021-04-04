@@ -395,7 +395,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero .dropdown ul a {
   text-transform: none;
   list-style-type: none;
-  min-width: 190px;
+  min-width: 210px;
 }
 
 #hero .dropdown ul a i {
