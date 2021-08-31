@@ -306,7 +306,7 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("../img/bg.png") top center;
+  background: url("../img/TEMP.jpg") top center;
   background-size: 100% 100%;
   position: relative;
 }
@@ -623,7 +623,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .video .section-title {
-  padding-left: 120px;
+  padding-left: 125spx;
 }
 
 .video .section-title h2 {
@@ -666,7 +666,7 @@ section {
 }
 
 .cta {
-  background: url("../img/bg.png") top center;
+  background: url("../img/A.png") top center;
   background-size: cover;
 }
 
@@ -677,7 +677,7 @@ section {
 
 .cta .resp {
   width: 900px;
-  height: 450px;
+  height: 430px;
   border-radius: 15px;
 }
 
