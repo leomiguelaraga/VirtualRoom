@@ -313,7 +313,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #hero:before {
   content: "";
-  background: rgba(0, 0, 0, 0.6);
+  background: rgba(0, 0, 0, 0.486);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -623,7 +623,7 @@ section {
 # Cta
 --------------------------------------------------------------*/
 .video .section-title {
-  padding-left: 120px;
+  padding-left: 300px;
 }
 
 .video .section-title h2 {
