@@ -1,0 +1,1 @@
+﻿var textForPages = ["BACHELOR OF SCIENCE IN                OFFICE ADMINISTRATION                                         LEVEL 1                                                     AREA III                            CURRICULUM AND                                   INSTRUCTION","COURSE                CURRICULUM","NEW CURRICULUM","","OLD CURRICULUM",""];
