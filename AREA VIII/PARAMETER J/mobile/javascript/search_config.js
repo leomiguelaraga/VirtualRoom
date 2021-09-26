@@ -1,0 +1,1 @@
+﻿var textForPages = ["AREA VIII.                                        PHYSICAL FACILITIES","AREA VIII.                    PHYSICAL FACILITIES                  J. Housing            (NOT APPLICABLE)"];
