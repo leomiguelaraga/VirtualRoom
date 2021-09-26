@@ -666,7 +666,7 @@ section {
 }
 
 .cta {
-  background: url("../img/A.png") top center;
+  background: url("../img/TEMP.jpg") top center;
   background-size: cover;
 }
 
@@ -676,9 +676,9 @@ section {
 }
 
 .cta .resp {
-  width: 900px;
+  width: 1000px;
   height: 430px;
-  border-radius: 15px;
+  border-radius: 10px;
 }
 
 @media (min-width: 1024px) {
